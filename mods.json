@@ -2,252 +2,252 @@
     "mods": [
         {
             "name": "1.3.4-backpacks_mod-1.21.6-1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/1.3.4-backpacks_mod-1.21.6-1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/1.3.4-backpacks_mod-1.21.6-1.21.8.jar",
             "md5": "2531d0143b35aeb63698b7ace5c1f397"
         },
         {
             "name": "AI-Improvements-1.21.6-0.5.4.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/AI-Improvements-1.21.6-0.5.4.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/AI-Improvements-1.21.6-0.5.4.jar",
             "md5": "5493fe80e4013ff54796f61825e0405f"
         },
         {
             "name": "AmbientSounds_NEOFORGE_v6.1.10_mc1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/AmbientSounds_NEOFORGE_v6.1.10_mc1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/AmbientSounds_NEOFORGE_v6.1.10_mc1.21.8.jar",
             "md5": "e39317099ed315e7c99455e618be5107"
         },
         {
             "name": "balm-neoforge-1.21.8-21.8.5.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/balm-neoforge-1.21.8-21.8.5.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/balm-neoforge-1.21.8-21.8.5.jar",
             "md5": "5314dd9846d3d08c93e3d66bfbcb21c6"
         },
         {
             "name": "BetterAdvancements-NeoForge-1.21.8-0.4.6.45.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/BetterAdvancements-NeoForge-1.21.8-0.4.6.45.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/BetterAdvancements-NeoForge-1.21.8-0.4.6.45.jar",
             "md5": "0c58eff5db5339916e652ae3432b9fa4"
         },
         {
             "name": "BetterF3-15.0.0-NeoForge-1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/BetterF3-15.0.0-NeoForge-1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/BetterF3-15.0.0-NeoForge-1.21.6.jar",
             "md5": "01146ddbc180cd9a66ce0dc132b95f04"
         },
         {
             "name": "BetterThirdPerson-neoforge-1.21.5-1.9.0.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/BetterThirdPerson-neoforge-1.21.5-1.9.0.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/BetterThirdPerson-neoforge-1.21.5-1.9.0.jar",
             "md5": "48b318fd0c672d2ff1f83993e3fc47f3"
         },
         {
             "name": "Camerapture-1.10.7+mc1.21.8-neoforge.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/Camerapture-1.10.7+mc1.21.8-neoforge.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/Camerapture-1.10.7+mc1.21.8-neoforge.jar",
             "md5": "872d20cddcbe6f8c868b1422a6bd37c7"
         },
         {
             "name": "chat_heads-0.13.19-neoforge-1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/chat_heads-0.13.19-neoforge-1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/chat_heads-0.13.19-neoforge-1.21.6.jar",
             "md5": "5b62de6ea7fb988cc1631fd3ddf208ce"
         },
         {
             "name": "Chunky-NeoForge-1.4.40.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/Chunky-NeoForge-1.4.40.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/Chunky-NeoForge-1.4.40.jar",
             "md5": "bc93d5486de32de98b94b1ac39911de6"
         },
         {
             "name": "cloth-config-19.0.147-neoforge.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/cloth-config-19.0.147-neoforge.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/cloth-config-19.0.147-neoforge.jar",
             "md5": "5cd537ccca90272a7af2a5ec778f8e79"
         },
         {
             "name": "collective-1.21.8-8.4.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/collective-1.21.8-8.4.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/collective-1.21.8-8.4.jar",
             "md5": "73be65c70a42707bef9e7bed595bba4c"
         },
         {
             "name": "connectedglass-1.1.14-neoforge-mc1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/connectedglass-1.1.14-neoforge-mc1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/connectedglass-1.1.14-neoforge-mc1.21.6.jar",
             "md5": "e5f14988bbc349e8fe5d74215e97f75b"
         },
         {
             "name": "corpse-neoforge-1.21.8-1.1.12.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/corpse-neoforge-1.21.8-1.1.12.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/corpse-neoforge-1.21.8-1.1.12.jar",
             "md5": "1730415771b64b963530a0a036f9f45c"
         },
         {
             "name": "CreativeCore_NEOFORGE_v2.14.1_mc1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/CreativeCore_NEOFORGE_v2.14.1_mc1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/CreativeCore_NEOFORGE_v2.14.1_mc1.21.8.jar",
             "md5": "994ec211b832cf72da1b61d43ec660cd"
         },
         {
             "name": "cristellib-neoforge-2.0.3.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/cristellib-neoforge-2.0.3.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/cristellib-neoforge-2.0.3.jar",
             "md5": "a7b716340053ce59da69558471343cb5"
         },
         {
             "name": "DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
             "md5": "f854410bd23b794c9512e2cf2e5b11f6"
         },
         {
             "name": "doubledoors-1.21.8-7.1.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/doubledoors-1.21.8-7.1.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/doubledoors-1.21.8-7.1.jar",
             "md5": "a2f7f97ca1b69bbe221ff8b3e1a3d8db"
         },
         {
             "name": "dungeons-and-taverns-v4.7.3.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/dungeons-and-taverns-v4.7.3.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/dungeons-and-taverns-v4.7.3.jar",
             "md5": "17d7316e9919ce3d26fc9e46b1fa4502"
         },
         {
             "name": "dynamiclights-v1.8.9-mc1.17-1.21.8-mod.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/dynamiclights-v1.8.9-mc1.17-1.21.8-mod.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/dynamiclights-v1.8.9-mc1.17-1.21.8-mod.jar",
             "md5": "41e958f427531f139ea86bd6db960a44"
         },
         {
             "name": "elevatorid-neoforge-1.21.7-1.14.2.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/elevatorid-neoforge-1.21.7-1.14.2.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/elevatorid-neoforge-1.21.7-1.14.2.jar",
             "md5": "c9dc091435dac66986b979201225b8bd"
         },
         {
             "name": "elytratrims-neoforge-4.3.2+1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/elytratrims-neoforge-4.3.2+1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/elytratrims-neoforge-4.3.2+1.21.8.jar",
             "md5": "9d11949aed93a2101dbf073482565b35"
         },
         {
             "name": "elytra_physics-neoforge-2.3_mc1.21.5-6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/elytra_physics-neoforge-2.3_mc1.21.5-6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/elytra_physics-neoforge-2.3_mc1.21.5-6.jar",
             "md5": "418fcb4342f7ff43b4e71196df0de346"
         },
         {
             "name": "fancymenu_neoforge_3.7.1_MC_1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/fancymenu_neoforge_3.7.1_MC_1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/fancymenu_neoforge_3.7.1_MC_1.21.8.jar",
             "md5": "176362bd8a826f5792462150c82e5b2a"
         },
         {
             "name": "fusion-1.2.11-neoforge-mc1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/fusion-1.2.11-neoforge-mc1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/fusion-1.2.11-neoforge-mc1.21.6.jar",
             "md5": "a26b8e88bdfcbcc9b94de265c80bb5aa"
         },
         {
             "name": "Incendium_1.21.x_v5.4.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/Incendium_1.21.x_v5.4.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/Incendium_1.21.x_v5.4.8.jar",
             "md5": "3ac516ced88428141fa7d27c63b893c9"
         },
         {
             "name": "iris-neoforge-1.9.1+mc1.21.7.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/iris-neoforge-1.9.1+mc1.21.7.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/iris-neoforge-1.9.1+mc1.21.7.jar",
             "md5": "c206e1266420b01d5628b8b24dd02359"
         },
         {
             "name": "ItemPhysicLite_NEOFORGE_v1.6.9_mc1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/ItemPhysicLite_NEOFORGE_v1.6.9_mc1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/ItemPhysicLite_NEOFORGE_v1.6.9_mc1.21.8.jar",
             "md5": "bcf25dc60e383913cfe9bc7c653e75b8"
         },
         {
             "name": "journeymap-neoforge-1.21.7-6.0.0-beta.53.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/journeymap-neoforge-1.21.7-6.0.0-beta.53.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/journeymap-neoforge-1.21.7-6.0.0-beta.53.jar",
             "md5": "c26b8ad3695bfd0f29b0d2544e5639e4"
         },
         {
             "name": "konkrete_neoforge_1.9.12_MC_1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/konkrete_neoforge_1.9.12_MC_1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/konkrete_neoforge_1.9.12_MC_1.21.6.jar",
             "md5": "4d32acf862464f403a131c889a859bc7"
         },
         {
             "name": "kotlinforforge-5.9.0-all.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/kotlinforforge-5.9.0-all.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/kotlinforforge-5.9.0-all.jar",
             "md5": "2455cd18d0abf76ce9a08ec50f0988a3"
         },
         {
             "name": "melody_neoforge_1.0.12_MC_1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/melody_neoforge_1.0.12_MC_1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/melody_neoforge_1.0.12_MC_1.21.6.jar",
             "md5": "c47d970da3287a093fbd5c3236b188d8"
         },
         {
             "name": "more-chest-variants-1.5.14+1.21.8-neoforge.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/more-chest-variants-1.5.14+1.21.8-neoforge.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/more-chest-variants-1.5.14+1.21.8-neoforge.jar",
             "md5": "107717afaa41aa52c25558ab728639af"
         },
         {
             "name": "notenoughanimations-neoforge-1.10.2-mc1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/notenoughanimations-neoforge-1.10.2-mc1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/notenoughanimations-neoforge-1.10.2-mc1.21.6.jar",
             "md5": "435b1b0bf8f98efa0f8dd753473cacbc"
         },
         {
             "name": "players-drop-heads-81.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/players-drop-heads-81.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/players-drop-heads-81.jar",
             "md5": "0423206254e973dbe8d87c6622c6434f"
         },
         {
             "name": "PuzzlesLib-v21.8.6-1.21.8-NeoForge.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/PuzzlesLib-v21.8.6-1.21.8-NeoForge.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/PuzzlesLib-v21.8.6-1.21.8-NeoForge.jar",
             "md5": "01ec0eb09b3746ae838b81da785d7fef"
         },
         {
             "name": "rechiseled-1.1.6b-neoforge-mc1.21.8.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/rechiseled-1.1.6b-neoforge-mc1.21.8.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/rechiseled-1.1.6b-neoforge-mc1.21.8.jar",
             "md5": "7d0784aec77d46660ed64d245368361f"
         },
         {
             "name": "skinlayers3d-neoforge-1.9.0-mc1.21.6 (1).jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/skinlayers3d-neoforge-1.9.0-mc1.21.6 (1).jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/skinlayers3d-neoforge-1.9.0-mc1.21.6 (1).jar",
             "md5": "8bb056d538d2f2dcf1e4897f35c033dd"
         },
         {
             "name": "skinlayers3d-neoforge-1.9.0-mc1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/skinlayers3d-neoforge-1.9.0-mc1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/skinlayers3d-neoforge-1.9.0-mc1.21.6.jar",
             "md5": "8bb056d538d2f2dcf1e4897f35c033dd"
         },
         {
             "name": "sodium-neoforge-0.6.13+mc1.21.6.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/sodium-neoforge-0.6.13+mc1.21.6.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/sodium-neoforge-0.6.13+mc1.21.6.jar",
             "md5": "f1153299127dfe1760c889302e9e7472"
         },
         {
             "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
             "md5": "0428149c5db7bad43d75e6f758f47678"
         },
         {
             "name": "supermartijn642corelib-1.1.18d-neoforge-mc1.21.7.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/supermartijn642corelib-1.1.18d-neoforge-mc1.21.7.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/supermartijn642corelib-1.1.18d-neoforge-mc1.21.7.jar",
             "md5": "68f9cab4499b8132cd120f7b6eef295e"
         },
         {
             "name": "Terralith_1.21.x_v2.5.11.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/Terralith_1.21.x_v2.5.11.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/Terralith_1.21.x_v2.5.11.jar",
             "md5": "c6ab4502b7a0f873696d5f510ad74355"
         },
         {
             "name": "TinySkeletons-v21.8.2-1.21.8-NeoForge.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/TinySkeletons-v21.8.2-1.21.8-NeoForge.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/TinySkeletons-v21.8.2-1.21.8-NeoForge.jar",
             "md5": "45fbd8506f388c5b0ff9cbe128d34e2c"
         },
         {
             "name": "toms_storage-1.21.8-2.5.1.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/toms_storage-1.21.8-2.5.1.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/toms_storage-1.21.8-2.5.1.jar",
             "md5": "776e54a607e7ad9527c7738058cf4594"
         },
         {
             "name": "trade-cycling-neoforge-1.21.8-1.0.19.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/trade-cycling-neoforge-1.21.8-1.0.19.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/trade-cycling-neoforge-1.21.8-1.0.19.jar",
             "md5": "f790bbea055ed26fdec125bd6e8da6ed"
         },
         {
             "name": "trashslot-neoforge-1.21.8-21.8.1.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/trashslot-neoforge-1.21.8-21.8.1.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/trashslot-neoforge-1.21.8-21.8.1.jar",
             "md5": "a2b1adf49b53be0db35ca186802180a1"
         },
         {
             "name": "t_and_t-fabric-neoforge-1.13.5.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/t_and_t-fabric-neoforge-1.13.5.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/t_and_t-fabric-neoforge-1.13.5.jar",
             "md5": "6fade2d76da7f5858695bf3876d5de6c"
         },
         {
             "name": "waystones-neoforge-1.21.8-21.8.3.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/waystones-neoforge-1.21.8-21.8.3.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/waystones-neoforge-1.21.8-21.8.3.jar",
             "md5": "447a898cfb7561f6b64e479be45d5231"
         },
         {
             "name": "[1.21.7] SecurityCraft v1.10-beta1.jar",
-            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/tree/main/[1.21.7] SecurityCraft v1.10-beta1.jar",
+            "url": "https://github.com/JotaPeGame/minecraft-mods-launcher/raw/refs/heads/main/[1.21.7] SecurityCraft v1.10-beta1.jar",
             "md5": "f2c7b6e6bab349aa157955abebd19d64"
         }
     ]
