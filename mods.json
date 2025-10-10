@@ -186,11 +186,6 @@
             "md5": "7a88fd9a02ee97dd2c82af70cea50b17"
         },
         {
-            "name": "forge-1.20.1-47.4.0-installer.jar",
-            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/forge-1.20.1-47.4.0-installer.jar",
-            "md5": "1f25e574d30ba5b336fb97cdf8335be4"
-        },
-        {
             "name": "geckolib-forge-1.20.1-4.8.2.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/geckolib-forge-1.20.1-4.8.2.jar",
             "md5": "d1ff73da16b6fc163d6c5ed3d9734dde"
@@ -353,3 +348,4 @@
     ]
 
 }
+
