@@ -106,11 +106,6 @@
             "md5": "7aabe100af362d0df92d8ea1dbc2667b"
         },
         {
-            "name": "creeperoverhaul-3.0.2-forge.jar",
-            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/creeperoverhaul-3.0.2-forge.jar",
-            "md5": "a8fb93fffba5a25b8444f4a2d5da2601"
-        },
-        {
             "name": "curios-forge-5.14.1+1.20.1.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/curios-forge-5.14.1+1.20.1.jar",
             "md5": "2fdcc97cbc66c4b2492b407c792e7159"
@@ -338,6 +333,7 @@
     ]
 
 }
+
 
 
 
