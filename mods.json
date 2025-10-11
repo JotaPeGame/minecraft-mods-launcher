@@ -241,11 +241,6 @@
             "md5": "db089c7230678965aa22cf7ba0049462"
         },
         {
-            "name": "naturalist-5.0pre2+forge-1.20.1.jar",
-            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/naturalist-5.0pre2+forge-1.20.1.jar",
-            "md5": "213db37a474642aaa1693bbfb5c574e8"
-        },
-        {
             "name": "natures_spirit-2.2.5-1.20.1.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/natures_spirit-2.2.5-1.20.1.jar",
             "md5": "8c05af4200bb2c5eedfcdce7f66fc352"
@@ -348,4 +343,5 @@
     ]
 
 }
+
 
