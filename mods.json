@@ -241,11 +241,6 @@
             "md5": "db089c7230678965aa22cf7ba0049462"
         },
         {
-            "name": "natures_spirit-2.2.5-1.20.1.jar",
-            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/natures_spirit-2.2.5-1.20.1.jar",
-            "md5": "8c05af4200bb2c5eedfcdce7f66fc352"
-        },
-        {
             "name": "notenoughanimations-forge-1.10.3.1-mc1.20.1.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/notenoughanimations-forge-1.10.3.1-mc1.20.1.jar",
             "md5": "5a1074c8035d0541664c36e1b4decf12"
@@ -343,5 +338,6 @@
     ]
 
 }
+
 
 
