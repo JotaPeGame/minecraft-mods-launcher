@@ -14,7 +14,7 @@
             "name": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
             "md5": "3638ace041955c1c927d8db26f22218d"
-        }
+        },
         {
             "name": "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
@@ -338,6 +338,7 @@
     ]
 
 }
+
 
 
 
