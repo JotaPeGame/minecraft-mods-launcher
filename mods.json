@@ -6,6 +6,11 @@
             "md5": "508c73f2941ae3d48cbf197ba390ecdd"
         },
         {
+            "name": "HostileNeuralNetworks-1.20.1-5.3.3.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/HostileNeuralNetworks-1.20.1-5.3.3.jar",
+            "md5": "d72aded068bc4d287620b65eb96d6f91"
+        },
+        {
             "name": "AgriCraft-fabric-1.20.1-4.0.5.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/AgriCraft-fabric-1.20.1-4.0.5.jar",
             "md5": "e125f86774467e75833de184006c34dd"
@@ -453,3 +458,4 @@
     ]
 
 }
+
