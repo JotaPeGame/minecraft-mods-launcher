@@ -11,6 +11,11 @@
             "md5": "d72aded068bc4d287620b65eb96d6f91"
         },
         {
+            "name": "Placebo-1.20.1-8.6.3.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/Placebo-1.20.1-8.6.3.jar",
+            "md5": "13133ab9989e8474931cd7a86bd19cc5"
+        },
+        {
             "name": "AgriCraft-fabric-1.20.1-4.0.5.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/AgriCraft-fabric-1.20.1-4.0.5.jar",
             "md5": "e125f86774467e75833de184006c34dd"
@@ -458,4 +463,5 @@
     ]
 
 }
+
 
