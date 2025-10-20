@@ -16,6 +16,11 @@
             "md5": "7a14c317f9c361d3cca18ce3d130cb45"
         },
         {
+            "name": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "md5": "6b2fd012966b13a96ce4f68ae42eab8c"
+        },
+        {
             "name": "justzoom_forge_2.1.1_MC_1.20.1.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/justzoom_forge_2.1.1_MC_1.20.1.jar",
             "md5": "758fe904b5a22ce7b2df824c1a064858"
@@ -488,6 +493,7 @@
     ]
 
 }
+
 
 
 
