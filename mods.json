@@ -11,6 +11,101 @@
             "md5": "bcdd05bc35229e30d1d8ab1b3449def6"
         },
         {
+            "name": "animated-doors-1.0.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/animated-doors-1.0.jar",
+            "md5": "4c478b4b5afbb1818d4fb5527ef4535c"
+        },
+        {
+            "name": "ATi Structures Default V1.4.2 (1.20+).jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/ATi Structures Default V1.4.2 (1.20+).jar",
+            "md5": "8e613645ef4ad6583edd0a41b7188bba"
+        },
+        {
+            "name": "bobby-1.20.1_v5.0.1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/bobby-1.20.1_v5.0.1.jar",
+            "md5": "bcdd05bc35229e30d1d8ab1b3449def6"
+        },
+        {
+            "name": "born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+            "md5": "53c0274da230c0b83864a8f1043d0a60"
+        },
+        {
+            "name": "dungeons-and-taverns-ancient-city-overhaul-1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/dungeons-and-taverns-ancient-city-overhaul-1.jar",
+            "md5": "0588b263b143bd87a3fb5c39430f5eab"
+        },
+        {
+            "name": "dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
+            "md5": "1e69255ab5167669076c916cd30c35a5"
+        },
+        {
+            "name": "dungeons-and-taverns-stronghold-rework-1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/dungeons-and-taverns-stronghold-rework-1.jar",
+            "md5": "4b33b35e99c6bbf5105b581992e20707"
+        },
+        {
+            "name": "dungeons-and-taverns-swamp-hut-rework-1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/dungeons-and-taverns-swamp-hut-rework-1.jar",
+            "md5": "1c1c1a88bda0b2a3e2e928912af1330f"
+        },
+        {
+            "name": "DungeonsArise-1.20.x-2.1.58-release.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/DungeonsArise-1.20.x-2.1.58-release.jar",
+            "md5": "6ac48d0cf2ce763824f96f6d26963219"
+        },
+        {
+            "name": "Hearths v1.0.5.mod.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/Hearths v1.0.5.mod.jar",
+            "md5": "1cb462378e1b97e57e3fd606ccf96ec0"
+        },
+        {
+            "name": "HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar",
+            "md5": "4e2e590c029999e6d35863268e160fcd"
+        },
+        {
+            "name": "HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar",
+            "md5": "ec1a6f2beec379d7ca9125fcf400aad4"
+        },
+        {
+            "name": "HopoBetterUnderwaterRuins-[1.20.1-1.20.4]-1.1.5b.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/HopoBetterUnderwaterRuins-[1.20.1-1.20.4]-1.1.5b.jar",
+            "md5": "01bde47b61bfe712a2d8c81bd1f86d57"
+        },
+        {
+            "name": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+            "md5": "a9497bda5f3fd160c248d4a8d4499e15"
+        },
+        {
+            "name": "Luminous halloween V1.1 - Forge 1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/Luminous halloween V1.1 - Forge 1.20.1.jar",
+            "md5": "56901a07fe515afc222934d0c771baed"
+        },
+        {
+            "name": "StarvingSkeleton-forge-1.20.1-1.5.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/StarvingSkeleton-forge-1.20.1-1.5.jar",
+            "md5": "7a7ebf764459704b5ac4a1dba0fc54d4"
+        },
+        {
+            "name": "structure_gel-1.20.1-2.16.2.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/structure_gel-1.20.1-2.16.2.jar",
+            "md5": "a4e07a1d6ff69901f70b014683f04498"
+        },
+        {
+            "name": "takesapillage-1.0.3-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/takesapillage-1.0.3-1.20.1.jar",
+            "md5": "df4c3678bd5e37a14bb0a3f65071ea8a"
+        },
+        {
+            "name": "TaxCastlePillager+M.1.20.1+ForM.1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/TaxCastlePillager+M.1.20.1+ForM.1.0.1.jar",
+            "md5": "f5cc22d40bbf226a6e3d85f71c01247a"
+        },
+        {
             "name": "Perception-FORGE-0.1.4+1.20.1.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/Perception-FORGE-0.1.4+1.20.1.jar",
             "md5": "7a14c317f9c361d3cca18ce3d130cb45"
@@ -493,6 +588,7 @@
     ]
 
 }
+
 
 
 
