@@ -121,11 +121,6 @@
             "md5": "758fe904b5a22ce7b2df824c1a064858"
         },
         {
-            "name": "connectivity-1.20.1-7.2.jar",
-            "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/connectivity-1.20.1-7.2.jar",
-            "md5": "b18f084c146f9725fe85f6a2fb869721"
-        },
-        {
             "name": "cupboard-1.20.1-2.7.jar",
             "url": "https://raw.githubusercontent.com/JotaPeGame/minecraft-mods-launcher/main/cupboard-1.20.1-2.7.jar",
             "md5": "3620912474f47bf58d1fe5bfe133763a"
@@ -588,6 +583,7 @@
     ]
 
 }
+
 
 
 
